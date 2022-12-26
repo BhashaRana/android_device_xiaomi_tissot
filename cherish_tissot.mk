@@ -34,7 +34,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 
 # Maintainer
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.cherish.maintainer=Lafactorial \
+    ro.cherish.maintainer=HaKaN \
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
