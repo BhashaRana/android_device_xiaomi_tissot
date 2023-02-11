@@ -5,4 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tissot.mk
+    $(LOCAL_DIR)/cipher_tissot.mk
+    
+    COMMON_LUNCH_CHOICES := \  
+    cipher_tissot-userdebug \
+    cipher_tissot-user
